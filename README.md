@@ -8,6 +8,7 @@ In the interactive visualization lessons, you learned how to make a variety of v
 
 ## Getting Started
 
+
 Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
 
 ## Deliverables
