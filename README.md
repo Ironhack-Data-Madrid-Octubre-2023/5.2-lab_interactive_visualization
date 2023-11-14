@@ -23,3 +23,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Cufflinks in Python](https://plot.ly/ipython-notebooks/cufflinks/)
 - [Plotly Python Documentation](https://plot.ly/python/)
 - [IPyWidgets Documentation](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html#)
+
+editado
